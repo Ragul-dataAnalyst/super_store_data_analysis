@@ -47,4 +47,3 @@ Tools & Technologies
 
 
 
-👉 Would you like me to **combine this README with the Adidas one** into a single repo README (with separate sections for each project), or do you prefer to keep them in **separate repositories**?
